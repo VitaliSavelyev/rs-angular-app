@@ -1,0 +1,24 @@
+:host {
+  width: 134px;
+  display: flex;
+  align-items: center;
+}
+.login {
+  background-image: url("../login.png");
+  width: 24px;
+  height: 24px;
+  border: none;
+  background-repeat: no-repeat;
+  background-position: -2px -2px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.3);
+  border-radius: 4px;
+  cursor: pointer;
+}
+.logName {
+  font-size: 12px;
+  line-height: 14px;
+  text-align: right;
+  color: #4f4f4f;
+  width: 102px;
+  margin-right: 8px;
+}
